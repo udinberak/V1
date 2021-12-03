@@ -1,1 +1,1 @@
-worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && node main.js
+worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && node zeroyt7
